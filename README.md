@@ -1,5 +1,14 @@
 # HRMAPP Pulsoid Discord RPC + OBS Overlay (Electron)
 
+## MOVED TO NEW APP
+
+Hey all its moved to https://github.com/NekoSuneProjects/NekoSuneAPPS now
+
+This project now on Arcrived
+
+---
+
+
 ## Good News macOS Build Working Again!
 
 A fresh macOS build is now available and fully working!
